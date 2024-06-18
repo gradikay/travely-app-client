@@ -4,6 +4,16 @@
   font-size: 2.5em;
   font-style: normal;
 }
+
+.journal-title {
+  font-size: 1.5rem;
+  background-color: white;
+  border: 1px solid black;
+  line-height: 1.4;
+  border-bottom: 4px solid black;
+  padding: 2px 12px;
+  -webkit-box-decoration-break: clone;
+}
 h1, p, a, h2, h3, h4, h5, h6, span .khand-light {
   font-family: "Khand", sans-serif;
   font-weight: 300;

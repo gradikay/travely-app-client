@@ -1,17 +1,10 @@
 import React from "react";
 
 export default function Footer() {
+
   return (
-    <div className="">
-      <nav>
+    <footer>
 
-      </nav>
-      <section>
-        Footer
-      </section>
-      <footer>
-
-      </footer>
-    </div>
+    </footer>
   );
 }
